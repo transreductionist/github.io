@@ -2,10 +2,10 @@
 Poems
 =========================
 
-This is the content for the lower index file.
+A collection of poems.
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: A List of Poems ~
    
    parting_ways

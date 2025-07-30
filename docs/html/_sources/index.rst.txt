@@ -3,15 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Mind-Prints documentation
+Mind-Prints
 =========================
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+Not only do we leave footprints, but we also leave mind-prints. 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: The Root ~
    
+   introduction
    poems/index_poems
+   essays/index_essays
