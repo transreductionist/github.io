@@ -10,8 +10,12 @@ This family of ideas that move before me have yet to be connected into some kind
 | May all living things find peace in our existence.
 | May all living things.
 
-Begin with Jung [Jung1956]_ for a discussion.
+C. G. Jung's [Jung1956]_ writings have been influential on my thinking. Talk generally about the Introduction and the Two Ways of Thinking.
+
+Another author who has had a major impact upon the direction of my ideas is Loren Eisley [Eiseley1979].
 
 .. rubric:: Citations
 
 .. [Jung1956] Jung, C. G. (2004) Symbols of Transformation. Great Britain. Routledge. The Introduction, and the following chapter Two Kinds of Thinking, are important to my thoughts going forward. 
+
+.. [Eisley1979] Eiseley, Loren (1979) The Star Thrower. New York. A Harvest Book: Harcourt Inc. The essay The Star Thrower and his style of writing. 
