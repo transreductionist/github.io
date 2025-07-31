@@ -1,11 +1,10 @@
-
 Essays
 =========================
 
-A collection of essays.
+Here is a list of essays. 
 
 .. toctree::
    :maxdepth: 1
-   :caption: A Collection of Essays ~
+   :caption: Essays ~
    
-   the_challenge
+   the_challenge/index_the_challenge

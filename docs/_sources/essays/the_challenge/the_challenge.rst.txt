@@ -1,4 +1,5 @@
-
+The Challenge
+=========================
 
 .. toctree::
    :maxdepth: 1

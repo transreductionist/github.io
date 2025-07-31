@@ -1,7 +1,5 @@
-.. Mind-Prints documentation master file, created by
-   sphinx-quickstart on Sat Jul 26 14:13:45 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. Mind-Prints documentation master file.
+   Run sphinx-build --builder html -write-all --fresh-env mind_prints docs
 
 Mind-Prints
 =========================
@@ -10,7 +8,7 @@ Not only do we leave footprints, but we also leave mind-prints.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Root ~
+   :caption: Fourfold Root ~
    
    introduction
    poems/index_poems

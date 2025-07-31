@@ -1,11 +1,10 @@
-
 Poems
 =========================
 
-A collection of poems.
+Here is a list of poems. 
 
 .. toctree::
    :maxdepth: 1
-   :caption: A Collection of Poems ~
+   :caption: Poems ~
    
    parting_ways
