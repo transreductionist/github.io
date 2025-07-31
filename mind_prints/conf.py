@@ -1,3 +1,5 @@
+# sphinx-build --builder html -write-all --fresh-env mind_prints docs
+
 # Configuration file for the Sphinx documentation builder.
 #
 # For the full list of built-in configuration values, see the documentation:
@@ -15,12 +17,12 @@ release = '0.1.0'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 import sphinx_rtd_theme
 
-extensions = ['sphinx_rtd_theme',]
+extensions = [
+    'sphinx_rtd_theme',
+]
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
-
-
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
