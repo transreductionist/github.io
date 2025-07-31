@@ -8,3 +8,4 @@ Here is a list of essays.
    :caption: Essays ~
    
    the_challenge/index_the_challenge
+   clara/index_clara
