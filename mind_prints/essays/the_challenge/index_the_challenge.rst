@@ -1,7 +1,7 @@
 The Challenge
 ==================================
 
-.. container:: the-challenge-css
+.. container:: the-challenge-tocwrapper
 
     .. toctree::
        :maxdepth: 1
