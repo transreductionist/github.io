@@ -8,7 +8,7 @@ I started the hike from the East Portal of Moffat tunnel. My first time here I w
 
 As I came up through the trees it was snowing and it was quiet except for my breathing. I had the tails of my skies tucked into the pockets on the bottom sides of my pack. Coming out of the tree line it soon felt more exposed and the summit was above the clouds. I passed Rogers Pass and Heart Lake to my right and started up the slope towards the peak. At around 12,000 feet I entered the clouds.
 
-There was more wind, and I guess more snow in the air. My sight was severely restricted. I could see my boots and a few feet in front of me. The supercooled water droplets of the cloud, known as rime ice, was forming on my outerwear as icy needles and scales. The whiteness of the slope blended into the whirling snow. There was a clear sense of climbing, descending, or traversing. A type of dead reckoning guided by the steepness of the slope.  
+There was more wind, and I guess more snow in the air. My sight was severely restricted. I could see my boots and a few feet in front of me. The supercooled water droplets of the cloud, known as rime ice, was forming on my outerwear as icy needles. The whiteness of the slope blended into the whirling snow. There was a clear sense of climbing, descending, or traversing. A type of dead reckoning guided by the steepness of the slope.  
 
 The challenge faced here is that there is no place to start, and just this vague idea of which direction we should start out after. Like climbing a mountain in a snow storm. You have an idea of where you are going. It is either up, down, or traversing, and much more than that is unknown. We carefully move upward with rime ice on our outer gear.
 
