@@ -1,9 +1,11 @@
 The Challenge
-=========================
+==================================
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Pages ~
+.. container:: the-challenge-css
+
+    .. toctree::
+       :maxdepth: 1
+       :caption: ~ Our side of the abyss
    
-   the_challenge_page_1
-   the_challenge_page_2
+       the_challenge_page_1
+       the_challenge_page_2

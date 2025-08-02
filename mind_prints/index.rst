@@ -10,6 +10,6 @@ Not only do we leave footprints, but we also leave mind-prints.
    :maxdepth: 1
    :caption: Fourfold Root ~
    
-   introduction
+   preface
    poems/index_poems
    essays/index_essays

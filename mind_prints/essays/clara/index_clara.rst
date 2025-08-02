@@ -3,6 +3,6 @@ Clara
 
 .. toctree::
    :maxdepth: 1
-   :caption: Pages ~
+   :caption: Clara Ball
    
    clara_page_1
