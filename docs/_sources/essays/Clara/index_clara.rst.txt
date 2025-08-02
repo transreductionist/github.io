@@ -5,6 +5,6 @@ Clara
 
     .. toctree::
         :maxdepth: 1
-        :caption: ~ Alpah Juliet 406 2.8 Clara Ball
+        :caption: ~ Alpah Juliet 406 3.2 Clara Ball
    
-        clara_page_1
+        alpha_juliet
