@@ -1,11 +1,11 @@
 Essays
 =========================
 
-Here is a list of essays. 
+.. container:: the-custom-tocwrapper
 
-.. toctree::
-   :maxdepth: 1
-   :caption: Essays ~
+    .. toctree::
+        :maxdepth: 1
+        :caption: ~ A List
    
-   the_challenge/index_the_challenge
-   clara/index_clara
+        rime_ice/index_rime_ice
+        clara/index_clara
