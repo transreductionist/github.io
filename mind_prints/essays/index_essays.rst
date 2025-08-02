@@ -8,4 +8,4 @@ Essays
         :caption: ~ A List
    
         rime_ice/index_rime_ice
-        clara/index_clara
+        clara/index_clara_ball
