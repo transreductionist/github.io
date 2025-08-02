@@ -7,6 +7,7 @@ Poems
        :maxdepth: 1
        :caption: ~ Stumblin' around
    
+       we_are_you_and_i/index_we_are_you_and_i
        parting_ways
        mercury_fell_in_love
        the_poem_found
