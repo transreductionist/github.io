@@ -1,11 +1,11 @@
-The Challenge
+Rime Ice
 ==================================
 
-.. container:: the-challenge-tocwrapper
+.. container:: the-custom-tocwrapper
 
     .. toctree::
        :maxdepth: 1
        :caption: ~ Our side of the abyss
    
-       the_challenge_page_1
-       the_challenge_page_2
+       rime_ice_page_1
+       rime_ice_page_2
