@@ -2,7 +2,7 @@
 Rime Ice
 ==============
 
-    | Before the abyss lying between subject and object.
+    | Standing on the abyss lying between subject and object.
 
 I started the hike from the East Portal of Moffat tunnel. My first time here I was skeptical as I drove the car up the dirt road to the portal following the tracks lodged into the mountain. What a scar I thought.
 
