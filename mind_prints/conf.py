@@ -19,6 +19,11 @@ import sphinx_rtd_theme
 
 extensions = [
     'sphinx_rtd_theme',
+    'sphinxcontrib.gtagjs',
+]
+
+gtagjs_ids = [
+    'G-X2BTCVYS15',
 ]
 
 templates_path = ['_templates']
