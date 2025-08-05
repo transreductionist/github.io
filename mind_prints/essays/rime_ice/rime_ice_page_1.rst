@@ -20,7 +20,6 @@ This family of ideas that move before me have yet to be connected into some kind
 
 The writings of C. G. Jung's [Jung1956]_ have been influential on my thinking. In the Symbols of Transformation he states the following:
 
-
     | Has mankind ever got away from myths? Everyone who has his eyes and wits about him 
     | can see that the world is dead, cold, and unending, Never yet has he beheld a God, 
     | or been compelled to require the existence of such a God from the eveidence of his
