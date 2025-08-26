@@ -18,6 +18,16 @@ This family of ideas that move before me have yet to be connected into some kind
     |   May all living things find peace in our existence.
     | May all living things.
 
+
+
+- irrational versus rational
+- faces in the mist
+- the imprint of evolution
+  - the cat-eye moth
+  - the visual cortex
+  - Chomsky's universal grammar
+- Jung and the unconscious
+
 The writings of C. G. Jung's [Jung1956]_ have been influential on my thinking. In the Symbols of Transformation he states the following:
 
     | Has mankind ever got away from myths? Everyone who has his eyes and wits about him 
