@@ -13,3 +13,4 @@ Not only do we leave footprints, but we also leave mind-prints.
    preface
    poems/index_poems
    essays/index_essays
+   journal/journal
