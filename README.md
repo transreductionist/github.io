@@ -15,3 +15,8 @@ Run the command:
 
 After successful build open the index HTML file located at:
 - /Users/aaron/devwork/github.io/docs/index.html
+
+To visit site go to:
+- fourfold-root.com
+
+Use Google Analytics
