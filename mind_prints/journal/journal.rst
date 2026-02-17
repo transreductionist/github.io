@@ -5,7 +5,7 @@ Journal
   
 **February 17, 2026**
 
-In paragraph [4] in February 16, 2026 the Orion constellation is mentioned. Use Zolon Tech example: Mercury Fell in Love Tonight
+In paragraph [4] in February 16, 2026 the Orion constellation is mentioned. Years ago I worked out near Dulles Airport as a contractor for a company called Zolon Tech. On the way to work I saw the most beautiful sight. It was early in the morning and the sun was coming up in the East. The West was still shrouded in shadow. It was deep blue, ultra-violet, to black. The moon was full and bright white while Mercury hovered nearby. 
 
     **Mercury Fell In Love**\
     
