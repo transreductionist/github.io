@@ -2,10 +2,12 @@
 
 Journal
 ================================
-  
+
+
+
 **February 17, 2026**
 
-In paragraph [4] in February 16, 2026 the Orion constellation is mentioned. Years ago I worked out near Dulles Airport as a contractor for a company called Zolon Tech. On the way to work I saw the most beautiful sight. It was early in the morning and the sun was coming up in the East. The West was still shrouded in shadow. It was deep blue, ultra-violet, to black. The moon was full and bright white while Mercury hovered nearby. 
+[1] In paragraph [4] of February 16, 2026 the Orion constellation is mentioned. Years ago I worked out near Dulles Airport as a contractor for a company called Zolon Tech. On the way to work I saw the most beautiful sight. It was early in the morning and the sun was coming up in the East. The West was still shrouded in shadow. It was deep blue, ultra-violet, to black. The moon was full and bright white while Mercury hovered nearby. 
 
     **Mercury Fell In Love**\
     
@@ -27,17 +29,19 @@ In paragraph [4] in February 16, 2026 the Orion constellation is mentioned. Year
     | The Sun could
     | Wake up.
 
-The point to all this is that there is so much we have seen and forgotten. Or sensed and ignored. 
+[2] The point to all this is that there is so much we have seen and forgotten, or sensed and ignored. We move through our daily business without much of a thought about what is going on. Our lives are socially constructed and this becomes quite evident when we look at the anthropological data. One aspect of this social construction is the arising of institutions, such as, the University, the Clinic, the Prison, and the many fortresses of our religious institutions.
+
+[3] A dear friend of mine shared a collection of works of Brother Lawrence [Sciurba1993]_ who lived in the 1600's. In Chapter 1 of the Spiritual Maxims the following is found.
 
 From Brother Lawrence:
 
     When we undertake the spiritual life we must seriously consider who we are, recognizing that we are worthy of all scorn, unworthy of the name Christian, and subject to all kinds of miseries and a multitude of setbacks ... in all, we are persons God wants to humble by means of a multitude of internal and external troubles and trials. -- [Sciurba1993]_
 
-From Nietzsche:
+[4] I need to be careful. When I pick up a text and begin reading, and not necessarily from the beginning, but maybe somewhere between the beginning and the end, if the writing strikes me the wrong way I have a tendency to not want to read further. This is especially true with regard to spiritual, or religious texts. These words are part of a bigger whole and need to be appropriately situated.
+
+[5] I have trouble with the idea that as humans we are less than what we were suppose to be. Somehow I am born defective. I cannot agree with that. There is something deeper here in this text. It is masochistic. I realize that I am reading this over 400 years later, and I sit in a different culture and time. Perhaps I don't understand, but I have heard this before in the concept of original sin. We are born human with a history that spans billions of years. So many life forms came before us and left their imprints on us. I am reminded of the writings of Nietzsche:
 
     Christianity came into existence in order to lighten the heart; but now it has first to burden the heart so as afterwards to be able to lighten it. Consequently it shall perish. -- [Nietzsche1996]_
-
-It is a radio call made to the Landing Signal Officer (LSO) telling them that the pilot sees the ball of the optical landing system (OLS). The aircraft is a few seconds from slamming into the deck, around three-quarters of a mile out.
 
 
 **February 16, 2026** It has been extremely difficult to find any motivation. This has been the case for quite some time. I retired on my birthday on February 2, 2026. That has certainly been a relief. For the first 2 weeks there was an increase in interest in things, and yet that eventually wore off. There is nothing I want to do.
